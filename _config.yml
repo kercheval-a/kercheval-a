@@ -22,8 +22,8 @@ title: From the Second Floor Desk
 email: akercheval@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog by Alec Kercheval.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/kercheval-a/kercheval-a" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/kercheval-a" # the subpath of your site, e.g. /blog
+url: "https://github.com/kercheval-a" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AlecKercheval
 github_username:  kercheval-a
 
