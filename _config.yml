@@ -23,7 +23,7 @@ email: akercheval@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog by Alec Kercheval.
 baseurl: "/kercheval-a" # the subpath of your site, e.g. /blog
-url: "https://kercheval-agithub.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kercheval-a.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AlecKercheval
 github_username:  kercheval-a
 
