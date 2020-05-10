@@ -31,3 +31,15 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+Render LaTeX using MathJax in Markdown, using double $$  $$.
+
+GIT Commands to use in the local repository
+git add .
+git status
+git commit . -m "comment message"
+git push origin master
+
+Jekyll Commands
+bundle exec jekyll serve
+bundle exec jekyll build
