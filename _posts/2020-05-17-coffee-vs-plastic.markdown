@@ -31,7 +31,8 @@ What can you do at home to rescue your coffee from plastic?
 1.  Avoid capsule machines that produce disposable plastic capsules as waste.
 2. Do not use automatic drip coffee makers -- even the high end ones have plastic filter baskets.
 3. For an inexpensive, high-quality solution, use a pour-over method, but avoid plastic drippers in favor of glass or ceramic. Avoid plastic kettles. Use glass or ceramic cups.
-4. For the hobbyist, most semi-automatic espresso machines qualify, with a preference for heat exchanger type.
+4. A second inexpensive option is the French Press, if constructed of steel and glass. The lack of need for filters balances the slightly higher entry cost. 
+5. For the hobbyist, most semi-automatic espresso machines qualify, with a preference for heat exchanger type.  Here there are also no filters to buy, but the entry cost is significant.
 
 A benefit of this corrective action is that your coffee will be far better than before. On the other hand, you will have to spend more time making coffee. I find the slower methods to be helpful to my state of mind -- meditative, and encouraging me to focus on something simple, the mindful preparation of a daily beverage.
 
